@@ -1,3 +1,4 @@
+--Dia 08/10/2024
 const futebol = prompt(
   "De Qual time da série A do Brasileirão você quer saber?"
 ).toLowerCase();
